@@ -1,0 +1,8 @@
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	ps = push
+	psom = push -u origin main
+	brm = branch -M main
