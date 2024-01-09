@@ -2,6 +2,7 @@
 	co = checkout
 	br = branch
 	ci = commit
+	cim = commit -m
 	st = status
 	ps = push
 	psom = push -u origin main
